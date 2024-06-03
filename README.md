@@ -3,3 +3,5 @@ This is to certify that the work embodied in this project entitled “Pothole De
 The project work has been prepared as per the regulation of Central Institute of Technology and I strongly recommend that this project be accepted in partial fulfillment of the requirement for the degree of B.Te
 
 For any query contact us: arupkok@gmail.com
+
+Dataset Link: https://drive.google.com/drive/folders/1--ggBT31Ex-mHVLfJBOgGVdnSRl5ILYm
